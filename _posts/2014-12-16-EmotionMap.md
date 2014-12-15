@@ -11,12 +11,10 @@ title: EmotionMap
 I set out to visualize the emotions of our communities in the hope of helping to raise self-awareness of one's own emotions and the emotion of one's community
 </p>
 
-[first-pic]: https://github.com/katemccallkiley/blog/images/IMG_2294.jpg
-[second-pic]
-[third-pic]
+[first-pic]: https://raw.githubusercontent.com/katemccallkiley/blog/gh-pages/images/IMG_2294.jpg
 
 ![First try](https://raw.githubusercontent.com/katemccallkiley/blog/gh-pages/images/IMG_2294.jpg)
-![First try](http://github.com/katemccallkiley/blog/images/IMG_2294.jpg)
+
 ![First ref][first-pic]
 
 ![]({{ site.url }}/blog/images/IMG_2396.JPG)
