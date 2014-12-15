@@ -14,5 +14,5 @@ I set out to visualize the emotions of our communities in the hope of helping to
 ![]({{ site.url }}/blog/images/IMG_2396.JPG)
 ![]({{ site.url }}/blog/images/IMG_2000.JPG)
 ![]({{ site.url }}/blog/images/IMG_2522.JPG)
-![]({{ site.url }}/blog/images/IMG_0317.JPG)
+![]({{ site.url }}/blog/images/DSC_0317.JPG)
 ![]({{ site.url }}/blog/images/IMG_0321.JPG)
