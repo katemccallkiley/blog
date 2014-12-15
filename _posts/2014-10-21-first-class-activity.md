@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapping Activity
+title: EmotionMap
 ---
 
 {{ page.title }}
@@ -8,11 +8,11 @@ title: Mapping Activity
 
 <p class="meta">
 
-In our first class activity, the class was seperated into 3 teams and given markers, tape, scissors, papers and pad
+I set out to visualize the emotions of our communities in the hope of helping to raise self-awareness of one's own emotions and the emotion of one's community
 
-![]({{ site.url }}/blog-template/images/IMG_4904.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4906.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4913.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4914.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4916.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4920.JPG)
+![]({{ site.url }}/blog/images/IMG_2294.JPG)
+![]({{ site.url }}/blog/images/IMG_2396.JPG)
+![]({{ site.url }}/blog/images/IMG_2000.JPG)
+![]({{ site.url }}/blog/images/IMG_2522.JPG)
+![]({{ site.url }}/blog/images/IMG_0317.JPG)
+![]({{ site.url }}/blog/images/IMG_0321.JPG)
