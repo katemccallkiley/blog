@@ -13,7 +13,13 @@ I set out to visualize the emotions of our communities in the hope of helping to
 
 [first-pic]: https://raw.githubusercontent.com/katemccallkiley/blog/gh-pages/images/IMG_2294.jpg
 
-![First try](https://raw.githubusercontent.com/katemccallkiley/blog/gh-pages/images/IMG_2294.jpg)
+![First try](https://raw.githubusercontent.com/katemccallkiley/blog/gh-pages/images/IMG_2523.jpg)
+
+![First try](https://raw.githubusercontent.com/katemccallkiley/blog/gh-pages/images/DSC_0317.jpg)
+
+![First try](https://raw.githubusercontent.com/katemccallkiley/blog/gh-pages/images/IMG_2570.MOV)
+
+![First try](https://raw.githubusercontent.com/katemccallkiley/blog/gh-pages/images/DSC_0321.jpg)
 
 ![First ref][first-pic]
 
