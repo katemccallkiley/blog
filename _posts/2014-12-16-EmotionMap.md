@@ -14,6 +14,7 @@ I set out to visualize the emotions of our communities in the hope of helping to
 
 ![First try](https://github.com/katemccallkiley/blog/tree/gh-pages/images/IMG_2294.jpg)
 <img src="{{ site.url }}/blog/tree/gh-pages/images/IMG_2294.jpg">
+
 ![]({{ site.url }}/blog/images/IMG_2396.JPG)
 ![]({{ site.url }}/blog/images/IMG_2000.JPG)
 ![]({{ site.url }}/blog/images/IMG_2522.JPG)
